@@ -1,0 +1,7 @@
+.shap {
+    width:0;
+    height: 0;
+    border:20px solid;
+    border-bottom-width:30px !important ;
+    border-color:black transparent transparent transparent ;
+}
